@@ -1,4 +1,7 @@
 FS-Nextra
+
+benchmark-stable tested version 
+
 ------
 
 [![npm](https://nodei.co/npm/fs-nextra.png?downloads=true&stars=true)](https://nodei.co/npm/fs-nextra/)
